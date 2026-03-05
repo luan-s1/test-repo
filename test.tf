@@ -14,3 +14,4 @@ resource "azurerm_redis_cache" "positive1" {
     maxmemory_policy   = "allkeys-lru"
   }
 }
+
